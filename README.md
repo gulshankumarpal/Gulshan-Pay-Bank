@@ -8,6 +8,10 @@ Language- Dart
 
 Database- SQLite
 
+Flutter packages used:
+sqflite - https://pub.dev/packages/sqflite
+path - https://pub.dev/packages/path
+
 ## Getting Started
 
 Here are some screenshots of the App.
