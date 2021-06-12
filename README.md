@@ -1,4 +1,4 @@
-# lord_bank
+# Banking App
 
 A basic Banking System App
 
