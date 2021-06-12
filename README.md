@@ -1,6 +1,8 @@
 # Banking App
 
-A basic Banking System App
+A basic Banking app built with Flutter.
+Language- Dart
+Database- SQLite
 
 ## Getting Started
 
