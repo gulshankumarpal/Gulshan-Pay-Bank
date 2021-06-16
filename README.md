@@ -1,6 +1,6 @@
 # Basic Banking App
 
-Task #1 The Sparks Foundation @GRIP June'21
+Task #2 The Sparks Foundation @GRIP June'21 Submitted by- Gulshan Kumar Pal
 
 A basic Banking app built with Flutter.
 
